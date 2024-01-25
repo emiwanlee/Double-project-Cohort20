@@ -1,0 +1,73 @@
+.general-body{
+    display: flex;
+    gap: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.general-body a{
+    text-decoration: none;
+    color: black;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    line-height: 5vh;
+}
+
+.girls a{
+    display: flex;
+    line-height: 28px;
+    
+}
+.boys{
+    padding: 20px;
+}
+.boys a{
+  display: flex;
+  line-height: 28px;
+  padding: 10px;
+}
+
+.baby-girls a{
+    display: flex;
+    
+    line-height: 28px;
+    position: sticky;
+}
+
+.baby-boys a{
+    display: flex;
+    flex-direction: column;
+    line-height: 28px;
+    padding: 10px;
+}
+.gender{
+    display: flex;
+}
+
+
+.top-girls a{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+.top-boys a{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+.kids a{
+    display: flex;
+    flex-direction: column;
+   padding: 10px 5px 12px 15px;
+
+}
+
+.kids {
+    display: flex;
+    flex-direction: column;
+   padding: 10px 5px 12px 50px;
+
+}

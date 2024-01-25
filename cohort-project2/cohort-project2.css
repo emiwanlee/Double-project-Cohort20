@@ -1,0 +1,18 @@
+.main-body{
+    display: flex;
+    gap: 100px;
+    
+}
+
+.first-row{
+    display: flex;
+    flex-direction:column;
+}
+
+.guides{
+    border: 1px solid black;
+    border-top: 0cap;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+}
